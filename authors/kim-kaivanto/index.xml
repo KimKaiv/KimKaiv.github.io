@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kim Kaivanto</title>
+    <link>https://KimKaiv.github.io/authors/kim-kaivanto/</link>
+      <atom:link href="https://KimKaiv.github.io/authors/kim-kaivanto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kim Kaivanto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Dec 2018 00:01:18 +0100</lastBuildDate>
+    <image>
+      <url>https://KimKaiv.github.io/img/icon-192.png</url>
+      <title>Kim Kaivanto</title>
+      <link>https://KimKaiv.github.io/authors/kim-kaivanto/</link>
+    </image>
+    
+    <item>
+      <title>Could a Cyber Attack Cause a Systemic Impact in the Financial Sector?</title>
+      <link>https://KimKaiv.github.io/publication/could-a-cyber-attack-cause-a-systemic-impact-in-the-financial-sector/</link>
+      <pubDate>Fri, 21 Dec 2018 00:01:18 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/could-a-cyber-attack-cause-a-systemic-impact-in-the-financial-sector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Warnings Unheeded</title>
+      <link>https://KimKaiv.github.io/publication/warnings-unheeded/</link>
+      <pubDate>Mon, 17 Sep 2018 00:01:12 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/warnings-unheeded/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community-Level Natural Resource Management Institutions: A Noncooperative Equilibrium Example</title>
+      <link>https://KimKaiv.github.io/publication/community-level-natural-resource-management-institutions/</link>
+      <pubDate>Mon, 23 Apr 2018 00:01:54 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/community-level-natural-resource-management-institutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble Prospectism</title>
+      <link>https://KimKaiv.github.io/publication/ensemble-prospectism/</link>
+      <pubDate>Sat, 18 Nov 2017 00:01:52 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/ensemble-prospectism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Decentralized Behavioral Decision Making on System-Level Risk</title>
+      <link>https://KimKaiv.github.io/publication/the-effect-of-decentralized-behavioral-decision-making-on-system-level-risk/</link>
+      <pubDate>Mon, 15 Dec 2014 00:01:14 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/the-effect-of-decentralized-behavioral-decision-making-on-system-level-risk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Kim Kaivanto</title>
+    <link>https://KimKaiv.github.io/tags/</link>
+      <atom:link href="https://KimKaiv.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Nov 2019 00:01:20 +0000</lastBuildDate>
+    <image>
+      <url>https://KimKaiv.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://KimKaiv.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>big data</title>
+      <link>https://KimKaiv.github.io/tags/big-data/</link>
+      <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
+      <guid>https://KimKaiv.github.io/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bootstrap</title>
+      <link>https://KimKaiv.github.io/tags/bootstrap/</link>
+      <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
+      <guid>https://KimKaiv.github.io/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>composite index</title>
+      <link>https://KimKaiv.github.io/tags/composite-index/</link>
+      <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
+      <guid>https://KimKaiv.github.io/tags/composite-index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cross-section of market returns</title>
+      <link>https://KimKaiv.github.io/tags/cross-section-of-market-returns/</link>
+      <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
+      <guid>https://KimKaiv.github.io/tags/cross-section-of-market-returns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diffusion index</title>
+      <link>https://KimKaiv.github.io/tags/diffusion-index/</link>
+      <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
+      <guid>https://KimKaiv.github.io/tags/diffusion-index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>investor sentiment</title>
+      <link>https://KimKaiv.github.io/tags/investor-sentiment/</link>
+      <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
+      <guid>https://KimKaiv.github.io/tags/investor-sentiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>long-horizon regression</title>
+      <link>https://KimKaiv.github.io/tags/long-horizon-regression/</link>
+      <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
+      <guid>https://KimKaiv.github.io/tags/long-horizon-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>natural language processing</title>
+      <link>https://KimKaiv.github.io/tags/natural-language-processing/</link>
+      <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
+      <guid>https://KimKaiv.github.io/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>noise trading</title>
+      <link>https://KimKaiv.github.io/tags/noise-trading/</link>
+      <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
+      <guid>https://KimKaiv.github.io/tags/noise-trading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>popular music</title>
+      <link>https://KimKaiv.github.io/tags/popular-music/</link>
+      <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
+      <guid>https://KimKaiv.github.io/tags/popular-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>predictability</title>
+      <link>https://KimKaiv.github.io/tags/predictability/</link>
+      <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
+      <guid>https://KimKaiv.github.io/tags/predictability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>textual analysis</title>
+      <link>https://KimKaiv.github.io/tags/textual-analysis/</link>
+      <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
+      <guid>https://KimKaiv.github.io/tags/textual-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>overfitting</title>
+      <link>https://KimKaiv.github.io/tags/overfitting/</link>
+      <pubDate>Sat, 15 Jun 2019 00:01:38 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/overfitting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inductive risk</title>
+      <link>https://KimKaiv.github.io/tags/inductive-risk/</link>
+      <pubDate>Mon, 01 Apr 2019 00:01:38 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/inductive-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inferential thresholds</title>
+      <link>https://KimKaiv.github.io/tags/inferential-thresholds/</link>
+      <pubDate>Mon, 01 Apr 2019 00:01:38 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/inferential-thresholds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>non-epistemic values</title>
+      <link>https://KimKaiv.github.io/tags/non-epistemic-values/</link>
+      <pubDate>Mon, 01 Apr 2019 00:01:38 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/non-epistemic-values/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>actuarial fairness</title>
+      <link>https://KimKaiv.github.io/tags/actuarial-fairness/</link>
+      <pubDate>Sat, 16 Mar 2019 00:01:45 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/actuarial-fairness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>discreteness</title>
+      <link>https://KimKaiv.github.io/tags/discreteness/</link>
+      <pubDate>Sat, 16 Mar 2019 00:01:45 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/discreteness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>indivisibility</title>
+      <link>https://KimKaiv.github.io/tags/indivisibility/</link>
+      <pubDate>Sat, 16 Mar 2019 00:01:45 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/indivisibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rationality</title>
+      <link>https://KimKaiv.github.io/tags/rationality/</link>
+      <pubDate>Sat, 16 Mar 2019 00:01:45 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/rationality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>risk averstion</title>
+      <link>https://KimKaiv.github.io/tags/risk-averstion/</link>
+      <pubDate>Sat, 16 Mar 2019 00:01:45 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/risk-averstion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>side bets</title>
+      <link>https://KimKaiv.github.io/tags/side-bets/</link>
+      <pubDate>Sat, 16 Mar 2019 00:01:45 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/side-bets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cyber attack</title>
+      <link>https://KimKaiv.github.io/tags/cyber-attack/</link>
+      <pubDate>Fri, 21 Dec 2018 00:01:18 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/cyber-attack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cyber risk</title>
+      <link>https://KimKaiv.github.io/tags/cyber-risk/</link>
+      <pubDate>Fri, 21 Dec 2018 00:01:18 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/cyber-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cybersecurity</title>
+      <link>https://KimKaiv.github.io/tags/cybersecurity/</link>
+      <pubDate>Fri, 21 Dec 2018 00:01:18 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>financial stability</title>
+      <link>https://KimKaiv.github.io/tags/financial-stability/</link>
+      <pubDate>Fri, 21 Dec 2018 00:01:18 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/financial-stability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APT - advanced persistent threat</title>
+      <link>https://KimKaiv.github.io/tags/apt-advanced-persistent-threat/</link>
+      <pubDate>Thu, 15 Nov 2018 00:01:09 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/apt-advanced-persistent-threat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>choice criteria</title>
+      <link>https://KimKaiv.github.io/tags/choice-criteria/</link>
+      <pubDate>Thu, 15 Nov 2018 00:01:09 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/choice-criteria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dual-process theory</title>
+      <link>https://KimKaiv.github.io/tags/dual-process-theory/</link>
+      <pubDate>Thu, 15 Nov 2018 00:01:09 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/dual-process-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>latent-class model</title>
+      <link>https://KimKaiv.github.io/tags/latent-class-model/</link>
+      <pubDate>Thu, 15 Nov 2018 00:01:09 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/latent-class-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>peripheral-route persuasion</title>
+      <link>https://KimKaiv.github.io/tags/peripheral-route-persuasion/</link>
+      <pubDate>Thu, 15 Nov 2018 00:01:09 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/peripheral-route-persuasion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phishing</title>
+      <link>https://KimKaiv.github.io/tags/phishing/</link>
+      <pubDate>Thu, 15 Nov 2018 00:01:09 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/phishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social engineering</title>
+      <link>https://KimKaiv.github.io/tags/social-engineering/</link>
+      <pubDate>Thu, 15 Nov 2018 00:01:09 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/social-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flight segmentation</title>
+      <link>https://KimKaiv.github.io/tags/flight-segmentation/</link>
+      <pubDate>Wed, 15 Aug 2018 00:01:17 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/flight-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fuel efficiency</title>
+      <link>https://KimKaiv.github.io/tags/fuel-efficiency/</link>
+      <pubDate>Wed, 15 Aug 2018 00:01:17 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/fuel-efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>greenhouse gas emissions</title>
+      <link>https://KimKaiv.github.io/tags/greenhouse-gas-emissions/</link>
+      <pubDate>Wed, 15 Aug 2018 00:01:17 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/greenhouse-gas-emissions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scheduled passenger air transport</title>
+      <link>https://KimKaiv.github.io/tags/scheduled-passenger-air-transport/</link>
+      <pubDate>Wed, 15 Aug 2018 00:01:17 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/scheduled-passenger-air-transport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>correlated equilibrium</title>
+      <link>https://KimKaiv.github.io/tags/correlated-equilibrium/</link>
+      <pubDate>Mon, 23 Apr 2018 00:01:54 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/correlated-equilibrium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>governing the commons</title>
+      <link>https://KimKaiv.github.io/tags/governing-the-commons/</link>
+      <pubDate>Mon, 23 Apr 2018 00:01:54 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/governing-the-commons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inshore artisanal fisheries</title>
+      <link>https://KimKaiv.github.io/tags/inshore-artisanal-fisheries/</link>
+      <pubDate>Mon, 23 Apr 2018 00:01:54 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/inshore-artisanal-fisheries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>natural resource management institutions</title>
+      <link>https://KimKaiv.github.io/tags/natural-resource-management-institutions/</link>
+      <pubDate>Mon, 23 Apr 2018 00:01:54 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/natural-resource-management-institutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>noncooperative game theory</title>
+      <link>https://KimKaiv.github.io/tags/noncooperative-game-theory/</link>
+      <pubDate>Mon, 23 Apr 2018 00:01:54 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/noncooperative-game-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Borda rule</title>
+      <link>https://KimKaiv.github.io/tags/borda-rule/</link>
+      <pubDate>Sat, 18 Nov 2017 00:01:52 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/borda-rule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cover rule</title>
+      <link>https://KimKaiv.github.io/tags/cover-rule/</link>
+      <pubDate>Sat, 18 Nov 2017 00:01:52 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/cover-rule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ensemble method</title>
+      <link>https://KimKaiv.github.io/tags/ensemble-method/</link>
+      <pubDate>Sat, 18 Nov 2017 00:01:52 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/ensemble-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>incomplete preferences</title>
+      <link>https://KimKaiv.github.io/tags/incomplete-preferences/</link>
+      <pubDate>Sat, 18 Nov 2017 00:01:52 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/incomplete-preferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>money pump</title>
+      <link>https://KimKaiv.github.io/tags/money-pump/</link>
+      <pubDate>Sat, 18 Nov 2017 00:01:52 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/money-pump/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>voting rules</title>
+      <link>https://KimKaiv.github.io/tags/voting-rules/</link>
+      <pubDate>Sat, 18 Nov 2017 00:01:52 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/voting-rules/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>asymmetric information</title>
+      <link>https://KimKaiv.github.io/tags/asymmetric-information/</link>
+      <pubDate>Wed, 01 Mar 2017 00:01:54 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/asymmetric-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blockchain</title>
+      <link>https://KimKaiv.github.io/tags/blockchain/</link>
+      <pubDate>Wed, 01 Mar 2017 00:01:54 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code risk</title>
+      <link>https://KimKaiv.github.io/tags/code-risk/</link>
+      <pubDate>Wed, 01 Mar 2017 00:01:54 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/code-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>distributed consensus algorithms</title>
+      <link>https://KimKaiv.github.io/tags/distributed-consensus-algorithms/</link>
+      <pubDate>Wed, 01 Mar 2017 00:01:54 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/distributed-consensus-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>distributed ledgers</title>
+      <link>https://KimKaiv.github.io/tags/distributed-ledgers/</link>
+      <pubDate>Wed, 01 Mar 2017 00:01:54 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/distributed-ledgers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fintech service design</title>
+      <link>https://KimKaiv.github.io/tags/fintech-service-design/</link>
+      <pubDate>Wed, 01 Mar 2017 00:01:54 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/fintech-service-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>information impactedness</title>
+      <link>https://KimKaiv.github.io/tags/information-impactedness/</link>
+      <pubDate>Wed, 01 Mar 2017 00:01:54 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/information-impactedness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>market failure</title>
+      <link>https://KimKaiv.github.io/tags/market-failure/</link>
+      <pubDate>Wed, 01 Mar 2017 00:01:54 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/market-failure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>moral hazard</title>
+      <link>https://KimKaiv.github.io/tags/moral-hazard/</link>
+      <pubDate>Wed, 01 Mar 2017 00:01:54 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/moral-hazard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regulation</title>
+      <link>https://KimKaiv.github.io/tags/regulation/</link>
+      <pubDate>Wed, 01 Mar 2017 00:01:54 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/regulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smart contracts</title>
+      <link>https://KimKaiv.github.io/tags/smart-contracts/</link>
+      <pubDate>Wed, 01 Mar 2017 00:01:54 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/smart-contracts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transaction costs</title>
+      <link>https://KimKaiv.github.io/tags/transaction-costs/</link>
+      <pubDate>Wed, 01 Mar 2017 00:01:54 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/transaction-costs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>behavior</title>
+      <link>https://KimKaiv.github.io/tags/behavior/</link>
+      <pubDate>Sun, 15 Jan 2017 00:01:26 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>carbon footprint</title>
+      <link>https://KimKaiv.github.io/tags/carbon-footprint/</link>
+      <pubDate>Sun, 15 Jan 2017 00:01:26 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/carbon-footprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>decision making</title>
+      <link>https://KimKaiv.github.io/tags/decision-making/</link>
+      <pubDate>Sun, 15 Jan 2017 00:01:26 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/decision-making/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>informed choice</title>
+      <link>https://KimKaiv.github.io/tags/informed-choice/</link>
+      <pubDate>Sun, 15 Jan 2017 00:01:26 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/informed-choice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>policy</title>
+      <link>https://KimKaiv.github.io/tags/policy/</link>
+      <pubDate>Sun, 15 Jan 2017 00:01:26 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prospect theory</title>
+      <link>https://KimKaiv.github.io/tags/prospect-theory/</link>
+      <pubDate>Mon, 15 Dec 2014 00:01:14 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/prospect-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>psychology of deception</title>
+      <link>https://KimKaiv.github.io/tags/psychology-of-deception/</link>
+      <pubDate>Mon, 15 Dec 2014 00:01:14 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/psychology-of-deception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://KimKaiv.github.io/tags/security/</link>
+      <pubDate>Mon, 15 Dec 2014 00:01:14 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>signal detection theory</title>
+      <link>https://KimKaiv.github.io/tags/signal-detection-theory/</link>
+      <pubDate>Mon, 15 Dec 2014 00:01:14 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/signal-detection-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spear phishing</title>
+      <link>https://KimKaiv.github.io/tags/spear-phishing/</link>
+      <pubDate>Mon, 15 Dec 2014 00:01:14 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/spear-phishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>system-level risk</title>
+      <link>https://KimKaiv.github.io/tags/system-level-risk/</link>
+      <pubDate>Mon, 15 Dec 2014 00:01:14 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/system-level-risk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

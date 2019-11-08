@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>policy | Kim Kaivanto</title>
+    <link>https://KimKaiv.github.io/tags/policy/</link>
+      <atom:link href="https://KimKaiv.github.io/tags/policy/index.xml" rel="self" type="application/rss+xml" />
+    <description>policy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jan 2017 00:01:26 +0100</lastBuildDate>
+    <image>
+      <url>https://KimKaiv.github.io/img/icon-192.png</url>
+      <title>policy</title>
+      <link>https://KimKaiv.github.io/tags/policy/</link>
+    </image>
+    
+    <item>
+      <title>Rank-order concordance among conflicting emissions estimates for informing flight choice</title>
+      <link>https://KimKaiv.github.io/publication/rank-order-concordance/</link>
+      <pubDate>Sun, 15 Jan 2017 00:01:26 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/rank-order-concordance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

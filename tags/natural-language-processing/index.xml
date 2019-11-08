@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>natural language processing | Kim Kaivanto</title>
+    <link>https://KimKaiv.github.io/tags/natural-language-processing/</link>
+      <atom:link href="https://KimKaiv.github.io/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>natural language processing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Nov 2019 00:01:20 +0000</lastBuildDate>
+    <image>
+      <url>https://KimKaiv.github.io/img/icon-192.png</url>
+      <title>natural language processing</title>
+      <link>https://KimKaiv.github.io/tags/natural-language-processing/</link>
+    </image>
+    
+    <item>
+      <title>Popular Music, Sentiment, and Noise Trading</title>
+      <link>https://KimKaiv.github.io/publication/popular-music-sentiment-noise-trading/</link>
+      <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
+      <guid>https://KimKaiv.github.io/publication/popular-music-sentiment-noise-trading/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

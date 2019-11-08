@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flight segmentation | Kim Kaivanto</title>
+    <link>https://KimKaiv.github.io/tags/flight-segmentation/</link>
+      <atom:link href="https://KimKaiv.github.io/tags/flight-segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>flight segmentation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Aug 2018 00:01:17 +0100</lastBuildDate>
+    <image>
+      <url>https://KimKaiv.github.io/img/icon-192.png</url>
+      <title>flight segmentation</title>
+      <link>https://KimKaiv.github.io/tags/flight-segmentation/</link>
+    </image>
+    
+    <item>
+      <title>A Fuel-Payload Ratio Based Flight-Segmentation Benchmark</title>
+      <link>https://KimKaiv.github.io/publication/a-fuel-payload-ratio-based-flight-segmentation-benchmark/</link>
+      <pubDate>Wed, 15 Aug 2018 00:01:17 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/a-fuel-payload-ratio-based-flight-segmentation-benchmark/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

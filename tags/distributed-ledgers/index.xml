@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>distributed ledgers | Kim Kaivanto</title>
+    <link>https://KimKaiv.github.io/tags/distributed-ledgers/</link>
+      <atom:link href="https://KimKaiv.github.io/tags/distributed-ledgers/index.xml" rel="self" type="application/rss+xml" />
+    <description>distributed ledgers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2017 00:01:54 +0100</lastBuildDate>
+    <image>
+      <url>https://KimKaiv.github.io/img/icon-192.png</url>
+      <title>distributed ledgers</title>
+      <link>https://KimKaiv.github.io/tags/distributed-ledgers/</link>
+    </image>
+    
+    <item>
+      <title>Risks and Transaction Costs of Distributed-Ledger Fintech: Boundary Effects and Consequences</title>
+      <link>https://KimKaiv.github.io/publication/risks-and-tcs-of-dl-fintech/</link>
+      <pubDate>Wed, 01 Mar 2017 00:01:54 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/risks-and-tcs-of-dl-fintech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

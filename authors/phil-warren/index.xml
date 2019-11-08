@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phil Warren | Kim Kaivanto</title>
+    <link>https://KimKaiv.github.io/authors/phil-warren/</link>
+      <atom:link href="https://KimKaiv.github.io/authors/phil-warren/index.xml" rel="self" type="application/rss+xml" />
+    <description>Phil Warren</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Dec 2018 00:01:18 +0100</lastBuildDate>
+    <image>
+      <url>https://KimKaiv.github.io/img/icon-192.png</url>
+      <title>Phil Warren</title>
+      <link>https://KimKaiv.github.io/authors/phil-warren/</link>
+    </image>
+    
+    <item>
+      <title>Could a Cyber Attack Cause a Systemic Impact in the Financial Sector?</title>
+      <link>https://KimKaiv.github.io/publication/could-a-cyber-attack-cause-a-systemic-impact-in-the-financial-sector/</link>
+      <pubDate>Fri, 21 Dec 2018 00:01:18 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/could-a-cyber-attack-cause-a-systemic-impact-in-the-financial-sector/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
