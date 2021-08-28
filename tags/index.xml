@@ -5,7 +5,7 @@
     <link>https://KimKaiv.github.io/tags/</link>
       <atom:link href="https://KimKaiv.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Nov 2019 00:01:20 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Jun 2021 20:15:16 +0100</lastBuildDate>
     <image>
       <url>https://KimKaiv.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
-      <title>big data</title>
-      <link>https://KimKaiv.github.io/tags/big-data/</link>
-      <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
-      <guid>https://KimKaiv.github.io/tags/big-data/</guid>
+      <title>bootstrap</title>
+      <link>https://KimKaiv.github.io/tags/bootstrap/</link>
+      <pubDate>Sun, 13 Jun 2021 20:15:16 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>bootstrap</title>
-      <link>https://KimKaiv.github.io/tags/bootstrap/</link>
+      <title>business formation</title>
+      <link>https://KimKaiv.github.io/tags/business-formation/</link>
+      <pubDate>Sun, 13 Jun 2021 20:15:16 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/business-formation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>investor sentiment</title>
+      <link>https://KimKaiv.github.io/tags/investor-sentiment/</link>
+      <pubDate>Sun, 13 Jun 2021 20:15:16 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/investor-sentiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>predictability</title>
+      <link>https://KimKaiv.github.io/tags/predictability/</link>
+      <pubDate>Sun, 13 Jun 2021 20:15:16 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/tags/predictability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>big data</title>
+      <link>https://KimKaiv.github.io/tags/big-data/</link>
       <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
-      <guid>https://KimKaiv.github.io/tags/bootstrap/</guid>
+      <guid>https://KimKaiv.github.io/tags/big-data/</guid>
       <description></description>
     </item>
     
@@ -49,14 +73,6 @@
       <link>https://KimKaiv.github.io/tags/diffusion-index/</link>
       <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
       <guid>https://KimKaiv.github.io/tags/diffusion-index/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>investor sentiment</title>
-      <link>https://KimKaiv.github.io/tags/investor-sentiment/</link>
-      <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
-      <guid>https://KimKaiv.github.io/tags/investor-sentiment/</guid>
       <description></description>
     </item>
     
@@ -89,14 +105,6 @@
       <link>https://KimKaiv.github.io/tags/popular-music/</link>
       <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
       <guid>https://KimKaiv.github.io/tags/popular-music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>predictability</title>
-      <link>https://KimKaiv.github.io/tags/predictability/</link>
-      <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
-      <guid>https://KimKaiv.github.io/tags/predictability/</guid>
       <description></description>
     </item>
     
