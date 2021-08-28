@@ -5,12 +5,20 @@
     <link>https://KimKaiv.github.io/publication/</link>
       <atom:link href="https://KimKaiv.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Nov 2019 00:01:20 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Jun 2021 20:15:16 +0100</lastBuildDate>
     <image>
       <url>https://KimKaiv.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://KimKaiv.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Is Business Formation Driven by Sentiment or Fundamentals?</title>
+      <link>https://KimKaiv.github.io/publication/is-business-formation-driven-by-sentiment-or-fundamentals/</link>
+      <pubDate>Sun, 13 Jun 2021 20:15:16 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/is-business-formation-driven-by-sentiment-or-fundamentals/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Popular Music, Sentiment, and Noise Trading</title>
