@@ -5,124 +5,12 @@
     <link>https://KimKaiv.github.io/categories/</link>
       <atom:link href="https://KimKaiv.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Jun 2021 20:15:16 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 00:01:09 +0100</lastBuildDate>
     <image>
       <url>https://KimKaiv.github.io/img/icon-192.png</url>
       <title>Categories</title>
       <link>https://KimKaiv.github.io/categories/</link>
     </image>
-    
-    <item>
-      <title>behavioural finance</title>
-      <link>https://KimKaiv.github.io/categories/behavioural-finance/</link>
-      <pubDate>Sun, 13 Jun 2021 20:15:16 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/categories/behavioural-finance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>signal detection theory</title>
-      <link>https://KimKaiv.github.io/categories/signal-detection-theory/</link>
-      <pubDate>Mon, 01 Apr 2019 00:01:38 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/categories/signal-detection-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>statistical decision functions</title>
-      <link>https://KimKaiv.github.io/categories/statistical-decision-functions/</link>
-      <pubDate>Mon, 01 Apr 2019 00:01:38 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/categories/statistical-decision-functions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>expected utility</title>
-      <link>https://KimKaiv.github.io/categories/expected-utility/</link>
-      <pubDate>Sat, 16 Mar 2019 00:01:45 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/categories/expected-utility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>systemic risk</title>
-      <link>https://KimKaiv.github.io/categories/systemic-risk/</link>
-      <pubDate>Fri, 21 Dec 2018 00:01:18 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/categories/systemic-risk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>behavioural economics</title>
-      <link>https://KimKaiv.github.io/categories/behavioural-economics/</link>
-      <pubDate>Thu, 15 Nov 2018 00:01:09 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/categories/behavioural-economics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cybersecurity</title>
-      <link>https://KimKaiv.github.io/categories/cybersecurity/</link>
-      <pubDate>Thu, 15 Nov 2018 00:01:09 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/categories/cybersecurity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>financial crisis</title>
-      <link>https://KimKaiv.github.io/categories/financial-crisis/</link>
-      <pubDate>Mon, 17 Sep 2018 00:01:12 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/categories/financial-crisis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CO2</title>
-      <link>https://KimKaiv.github.io/categories/co2/</link>
-      <pubDate>Wed, 15 Aug 2018 00:01:17 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/categories/co2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>microeconomics</title>
-      <link>https://KimKaiv.github.io/categories/microeconomics/</link>
-      <pubDate>Wed, 15 Aug 2018 00:01:17 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/categories/microeconomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>game theory</title>
-      <link>https://KimKaiv.github.io/categories/game-theory/</link>
-      <pubDate>Mon, 23 Apr 2018 00:01:54 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/categories/game-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>decision theory</title>
-      <link>https://KimKaiv.github.io/categories/decision-theory/</link>
-      <pubDate>Sat, 18 Nov 2017 00:01:52 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/categories/decision-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>distributed ledgers</title>
-      <link>https://KimKaiv.github.io/categories/distributed-ledgers/</link>
-      <pubDate>Wed, 01 Mar 2017 00:01:54 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/categories/distributed-ledgers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>behavioural decision theory</title>
-      <link>https://KimKaiv.github.io/categories/behavioural-decision-theory/</link>
-      <pubDate>Mon, 15 Dec 2014 00:01:14 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/categories/behavioural-decision-theory/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
