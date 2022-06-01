@@ -5,86 +5,12 @@
     <link>https://KimKaiv.github.io/authors/</link>
       <atom:link href="https://KimKaiv.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Jun 2021 20:15:16 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 00:01:09 +0100</lastBuildDate>
     <image>
       <url>https://KimKaiv.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://KimKaiv.github.io/authors/</link>
     </image>
-    
-    <item>
-      <title>Kim Kaivanto and Peng Zhang</title>
-      <link>https://KimKaiv.github.io/authors/kim-kaivanto-and-peng-zhang/</link>
-      <pubDate>Sun, 13 Jun 2021 20:15:16 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/authors/kim-kaivanto-and-peng-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kim Kaivanto and Daniel Steel</title>
-      <link>https://KimKaiv.github.io/authors/kim-kaivanto-and-daniel-steel/</link>
-      <pubDate>Mon, 01 Apr 2019 00:01:38 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/authors/kim-kaivanto-and-daniel-steel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kim Kaivanto and David Peel</title>
-      <link>https://KimKaiv.github.io/authors/kim-kaivanto-and-david-peel/</link>
-      <pubDate>Sat, 16 Mar 2019 00:01:45 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/authors/kim-kaivanto-and-david-peel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>and Daniel Prince</title>
-      <link>https://KimKaiv.github.io/authors/and-daniel-prince/</link>
-      <pubDate>Fri, 21 Dec 2018 00:01:18 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/authors/and-daniel-prince/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kim Kaivanto</title>
-      <link>https://KimKaiv.github.io/authors/kim-kaivanto/</link>
-      <pubDate>Fri, 21 Dec 2018 00:01:18 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/authors/kim-kaivanto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phil Warren</title>
-      <link>https://KimKaiv.github.io/authors/phil-warren/</link>
-      <pubDate>Fri, 21 Dec 2018 00:01:18 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/authors/phil-warren/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Iain Embrey and Kim Kaivanto</title>
-      <link>https://KimKaiv.github.io/authors/iain-embrey-and-kim-kaivanto/</link>
-      <pubDate>Thu, 15 Nov 2018 00:01:09 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/authors/iain-embrey-and-kim-kaivanto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kim Kaivanto and Daniel Prince</title>
-      <link>https://KimKaiv.github.io/authors/kim-kaivanto-and-daniel-prince/</link>
-      <pubDate>Wed, 01 Mar 2017 00:01:54 +0100</pubDate>
-      <guid>https://KimKaiv.github.io/authors/kim-kaivanto-and-daniel-prince/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://KimKaiv.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://KimKaiv.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;My research centres on the interplay between normative and behavioural models of decision
-making under risk and uncertainty, with applications in financial and non-financial problem settings.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
