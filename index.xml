@@ -5,7 +5,7 @@
     <link>https://KimKaiv.github.io/</link>
       <atom:link href="https://KimKaiv.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Kim Kaivanto</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Jun 2021 20:15:16 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 00:01:09 +0100</lastBuildDate>
     <image>
       <url>https://KimKaiv.github.io/img/icon-192.png</url>
       <title>Kim Kaivanto</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
-      <title>Is Business Formation Driven by Sentiment or Fundamentals?</title>
+      <title>Many phish in the C: A coexisting-choice-criteria model of security behavior</title>
+      <link>https://KimKaiv.github.io/publication/many-phish-in-the-c-final/</link>
+      <pubDate>Sat, 14 May 2022 00:01:09 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/many-phish-in-the-c-final/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is Business Formation Driven by Sentiment or Fundamentals</title>
       <link>https://KimKaiv.github.io/publication/is-business-formation-driven-by-sentiment-or-fundamentals/</link>
-      <pubDate>Sun, 13 Jun 2021 20:15:16 +0100</pubDate>
+      <pubDate>Mon, 21 Feb 2022 00:01:38 +0100</pubDate>
       <guid>https://KimKaiv.github.io/publication/is-business-formation-driven-by-sentiment-or-fundamentals/</guid>
       <description></description>
     </item>
