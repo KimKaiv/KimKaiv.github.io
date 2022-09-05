@@ -5,12 +5,20 @@
     <link>https://KimKaiv.github.io/publication/</link>
       <atom:link href="https://KimKaiv.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 00:01:09 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:01:26 +0100</lastBuildDate>
     <image>
       <url>https://KimKaiv.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://KimKaiv.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Prediction-market innovations can improve climate-risk forecasts</title>
+      <link>https://KimKaiv.github.io/publication/prediction-market-innovations-can-improve-climate-risk-forecasts/</link>
+      <pubDate>Thu, 01 Sep 2022 00:01:26 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/prediction-market-innovations-can-improve-climate-risk-forecasts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Many phish in the C: A coexisting-choice-criteria model of security behavior</title>
