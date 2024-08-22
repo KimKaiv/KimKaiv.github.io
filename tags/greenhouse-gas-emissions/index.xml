@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>greenhouse gas emissions | Kim Kaivanto</title>
+    <link>https://KimKaiv.github.io/tags/greenhouse-gas-emissions/</link>
+      <atom:link href="https://KimKaiv.github.io/tags/greenhouse-gas-emissions/index.xml" rel="self" type="application/rss+xml" />
+    <description>greenhouse gas emissions</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:01:26 +0100</lastBuildDate>
+    <image>
+      <url>https://KimKaiv.github.io/img/icon-192.png</url>
+      <title>greenhouse gas emissions</title>
+      <link>https://KimKaiv.github.io/tags/greenhouse-gas-emissions/</link>
+    </image>
+    
+    <item>
+      <title>Prediction-market innovations can improve climate-risk forecasts</title>
+      <link>https://KimKaiv.github.io/publication/prediction-market-innovations-can-improve-climate-risk-forecasts/</link>
+      <pubDate>Thu, 01 Sep 2022 00:01:26 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/prediction-market-innovations-can-improve-climate-risk-forecasts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fuel-Payload Ratio Based Flight-Segmentation Benchmark</title>
+      <link>https://KimKaiv.github.io/publication/a-fuel-payload-ratio-based-flight-segmentation-benchmark/</link>
+      <pubDate>Wed, 15 Aug 2018 00:01:17 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/a-fuel-payload-ratio-based-flight-segmentation-benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rank-order concordance among conflicting emissions estimates for informing flight choice</title>
+      <link>https://KimKaiv.github.io/publication/rank-order-concordance/</link>
+      <pubDate>Sun, 15 Jan 2017 00:01:26 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/rank-order-concordance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>peripheral-route persuasion | Kim Kaivanto</title>
+    <link>https://KimKaiv.github.io/tags/peripheral-route-persuasion/</link>
+      <atom:link href="https://KimKaiv.github.io/tags/peripheral-route-persuasion/index.xml" rel="self" type="application/rss+xml" />
+    <description>peripheral-route persuasion</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:01:09 +0100</lastBuildDate>
+    <image>
+      <url>https://KimKaiv.github.io/img/icon-192.png</url>
+      <title>peripheral-route persuasion</title>
+      <link>https://KimKaiv.github.io/tags/peripheral-route-persuasion/</link>
+    </image>
+    
+    <item>
+      <title>Many phish in the C: A coexisting-choice-criteria model of security behavior</title>
+      <link>https://KimKaiv.github.io/publication/many-phish-in-the-c-final/</link>
+      <pubDate>Sat, 01 Apr 2023 00:01:09 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/many-phish-in-the-c-final/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Many phish in the C: A coexisting-choice-criteria model of security behavior</title>
+      <link>https://KimKaiv.github.io/publication/many-phish-in-the-c/</link>
+      <pubDate>Thu, 15 Nov 2018 00:01:09 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/many-phish-in-the-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

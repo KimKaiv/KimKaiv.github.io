@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>systemic risk | Kim Kaivanto</title>
+    <link>https://KimKaiv.github.io/categories/systemic-risk/</link>
+      <atom:link href="https://KimKaiv.github.io/categories/systemic-risk/index.xml" rel="self" type="application/rss+xml" />
+    <description>systemic risk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Dec 2018 00:01:18 +0100</lastBuildDate>
+    <image>
+      <url>https://KimKaiv.github.io/img/icon-192.png</url>
+      <title>systemic risk</title>
+      <link>https://KimKaiv.github.io/categories/systemic-risk/</link>
+    </image>
+    
+    <item>
+      <title>Could a Cyber Attack Cause a Systemic Impact in the Financial Sector?</title>
+      <link>https://KimKaiv.github.io/publication/could-a-cyber-attack-cause-a-systemic-impact-in-the-financial-sector/</link>
+      <pubDate>Fri, 21 Dec 2018 00:01:18 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/could-a-cyber-attack-cause-a-systemic-impact-in-the-financial-sector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Warnings Unheeded</title>
+      <link>https://KimKaiv.github.io/publication/warnings-unheeded/</link>
+      <pubDate>Mon, 17 Sep 2018 00:01:12 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/warnings-unheeded/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

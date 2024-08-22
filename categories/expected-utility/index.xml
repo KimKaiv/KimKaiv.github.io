@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>expected utility | Kim Kaivanto</title>
+    <link>https://KimKaiv.github.io/categories/expected-utility/</link>
+      <atom:link href="https://KimKaiv.github.io/categories/expected-utility/index.xml" rel="self" type="application/rss+xml" />
+    <description>expected utility</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 16 Mar 2019 00:01:45 +0100</lastBuildDate>
+    <image>
+      <url>https://KimKaiv.github.io/img/icon-192.png</url>
+      <title>expected utility</title>
+      <link>https://KimKaiv.github.io/categories/expected-utility/</link>
+    </image>
+    
+    <item>
+      <title>Pre-Decision Side-Bet Sequences</title>
+      <link>https://KimKaiv.github.io/publication/pre-decision-side-bet-sequences/</link>
+      <pubDate>Sat, 16 Mar 2019 00:01:45 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/pre-decision-side-bet-sequences/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

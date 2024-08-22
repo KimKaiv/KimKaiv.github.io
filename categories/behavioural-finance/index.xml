@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>behavioural finance | Kim Kaivanto</title>
+    <link>https://KimKaiv.github.io/categories/behavioural-finance/</link>
+      <atom:link href="https://KimKaiv.github.io/categories/behavioural-finance/index.xml" rel="self" type="application/rss+xml" />
+    <description>behavioural finance</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Feb 2022 00:01:38 +0100</lastBuildDate>
+    <image>
+      <url>https://KimKaiv.github.io/img/icon-192.png</url>
+      <title>behavioural finance</title>
+      <link>https://KimKaiv.github.io/categories/behavioural-finance/</link>
+    </image>
+    
+    <item>
+      <title>Is Business Formation Driven by Sentiment or Fundamentals</title>
+      <link>https://KimKaiv.github.io/publication/is-business-formation-driven-by-sentiment-or-fundamentals/</link>
+      <pubDate>Mon, 21 Feb 2022 00:01:38 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/is-business-formation-driven-by-sentiment-or-fundamentals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Popular Music, Sentiment, and Noise Trading</title>
+      <link>https://KimKaiv.github.io/publication/popular-music-sentiment-noise-trading/</link>
+      <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
+      <guid>https://KimKaiv.github.io/publication/popular-music-sentiment-noise-trading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investor Sentiment as a Predictor of Market Returns</title>
+      <link>https://KimKaiv.github.io/publication/investor-sentiment-as-a-predictor-of-market-returns/</link>
+      <pubDate>Sat, 15 Jun 2019 00:01:38 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/investor-sentiment-as-a-predictor-of-market-returns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Warnings Unheeded</title>
+      <link>https://KimKaiv.github.io/publication/warnings-unheeded/</link>
+      <pubDate>Mon, 17 Sep 2018 00:01:12 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/warnings-unheeded/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

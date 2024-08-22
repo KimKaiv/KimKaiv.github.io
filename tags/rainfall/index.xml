@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rainfall | Kim Kaivanto</title>
+    <link>https://KimKaiv.github.io/tags/rainfall/</link>
+      <atom:link href="https://KimKaiv.github.io/tags/rainfall/index.xml" rel="self" type="application/rss+xml" />
+    <description>rainfall</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://KimKaiv.github.io/img/icon-192.png</url>
+      <title>rainfall</title>
+      <link>https://KimKaiv.github.io/tags/rainfall/</link>
+    </image>
+    
+    <item>
+      <title>Can expert prediction markets forecast climate-related risks?</title>
+      <link>https://KimKaiv.github.io/publication/can-expert-pms-forecast-climate-related-risks/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://KimKaiv.github.io/publication/can-expert-pms-forecast-climate-related-risks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

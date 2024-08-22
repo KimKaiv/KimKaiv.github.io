@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>incomplete preferences | Kim Kaivanto</title>
+    <link>https://KimKaiv.github.io/tags/incomplete-preferences/</link>
+      <atom:link href="https://KimKaiv.github.io/tags/incomplete-preferences/index.xml" rel="self" type="application/rss+xml" />
+    <description>incomplete preferences</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Nov 2017 00:01:52 +0100</lastBuildDate>
+    <image>
+      <url>https://KimKaiv.github.io/img/icon-192.png</url>
+      <title>incomplete preferences</title>
+      <link>https://KimKaiv.github.io/tags/incomplete-preferences/</link>
+    </image>
+    
+    <item>
+      <title>Ensemble Prospectism</title>
+      <link>https://KimKaiv.github.io/publication/ensemble-prospectism/</link>
+      <pubDate>Sat, 18 Nov 2017 00:01:52 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/ensemble-prospectism/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

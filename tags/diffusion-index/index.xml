@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>diffusion index | Kim Kaivanto</title>
+    <link>https://KimKaiv.github.io/tags/diffusion-index/</link>
+      <atom:link href="https://KimKaiv.github.io/tags/diffusion-index/index.xml" rel="self" type="application/rss+xml" />
+    <description>diffusion index</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Nov 2019 00:01:20 +0000</lastBuildDate>
+    <image>
+      <url>https://KimKaiv.github.io/img/icon-192.png</url>
+      <title>diffusion index</title>
+      <link>https://KimKaiv.github.io/tags/diffusion-index/</link>
+    </image>
+    
+    <item>
+      <title>Popular Music, Sentiment, and Noise Trading</title>
+      <link>https://KimKaiv.github.io/publication/popular-music-sentiment-noise-trading/</link>
+      <pubDate>Tue, 05 Nov 2019 00:01:20 +0000</pubDate>
+      <guid>https://KimKaiv.github.io/publication/popular-music-sentiment-noise-trading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investor Sentiment as a Predictor of Market Returns</title>
+      <link>https://KimKaiv.github.io/publication/investor-sentiment-as-a-predictor-of-market-returns/</link>
+      <pubDate>Sat, 15 Jun 2019 00:01:38 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/investor-sentiment-as-a-predictor-of-market-returns/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
