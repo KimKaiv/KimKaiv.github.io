@@ -2,13 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://KimKaiv.github.io/publication_types/2/</loc>
-    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
+    <loc>https://KimKaiv.github.io/publication_types/3/</loc>
+    <lastmod>2025-03-28T00:01:00+01:00</lastmod>
+  </url><url>
+    <loc>https://KimKaiv.github.io/tags/ai-governance/</loc>
+    <lastmod>2025-03-28T00:01:00+01:00</lastmod>
   </url><url>
     <loc>https://KimKaiv.github.io/authors/</loc>
-    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-28T00:01:00+01:00</lastmod>
   </url><url>
     <loc>https://KimKaiv.github.io/categories/</loc>
+    <lastmod>2025-03-28T00:01:00+01:00</lastmod>
+  </url><url>
+    <loc>https://KimKaiv.github.io/tags/frontier-ai/</loc>
+    <lastmod>2025-03-28T00:01:00+01:00</lastmod>
+  </url><url>
+    <loc>https://KimKaiv.github.io/tags/innovation-principle/</loc>
+    <lastmod>2025-03-28T00:01:00+01:00</lastmod>
+  </url><url>
+    <loc>https://KimKaiv.github.io/tags/kim-kaivanto/</loc>
+    <lastmod>2025-03-28T00:01:00+01:00</lastmod>
+  </url><url>
+    <loc>https://KimKaiv.github.io/authors/kim-kaivanto/</loc>
+    <lastmod>2025-03-28T00:01:00+01:00</lastmod>
+  </url><url>
+    <loc>https://KimKaiv.github.io/</loc>
+    <lastmod>2025-03-28T00:01:00+01:00</lastmod>
+  </url><url>
+    <loc>https://KimKaiv.github.io/tags/precautionary-principle/</loc>
+    <lastmod>2025-03-28T00:01:00+01:00</lastmod>
+  </url><url>
+    <loc>https://KimKaiv.github.io/publication_types/</loc>
+    <lastmod>2025-03-28T00:01:00+01:00</lastmod>
+  </url><url>
+    <loc>https://KimKaiv.github.io/publication/</loc>
+    <lastmod>2025-03-28T00:01:00+01:00</lastmod>
+  </url><url>
+    <loc>https://KimKaiv.github.io/tags/regulatory-sandbox/</loc>
+    <lastmod>2025-03-28T00:01:00+01:00</lastmod>
+  </url><url>
+    <loc>https://KimKaiv.github.io/categories/signal-detection-theory/</loc>
+    <lastmod>2025-03-28T00:01:00+01:00</lastmod>
+  </url><url>
+    <loc>https://KimKaiv.github.io/tags/</loc>
+    <lastmod>2025-03-28T00:01:00+01:00</lastmod>
+  </url><url>
+    <loc>https://KimKaiv.github.io/publication/pp-ip-ai-governance/</loc>
+    <lastmod>2025-03-28T00:01:00+01:00</lastmod>
+  </url><url>
+    <loc>https://KimKaiv.github.io/publication_types/2/</loc>
     <lastmod>2024-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://KimKaiv.github.io/tags/circularity/</loc>
@@ -20,15 +62,6 @@
     <loc>https://KimKaiv.github.io/publication/plos-one/</loc>
     <lastmod>2024-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://KimKaiv.github.io/tags/kim-kaivanto/</loc>
-    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://KimKaiv.github.io/authors/kim-kaivanto/</loc>
-    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://KimKaiv.github.io/</loc>
-    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://KimKaiv.github.io/tags/mark-roulston/</loc>
     <lastmod>2024-08-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -38,16 +71,7 @@
     <loc>https://KimKaiv.github.io/categories/prediction-markets/</loc>
     <lastmod>2024-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://KimKaiv.github.io/publication_types/</loc>
-    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://KimKaiv.github.io/publication/</loc>
-    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://KimKaiv.github.io/tags/rainfall/</loc>
-    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://KimKaiv.github.io/tags/</loc>
     <lastmod>2024-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://KimKaiv.github.io/tags/temperature/</loc>
@@ -70,9 +94,6 @@
   </url><url>
     <loc>https://KimKaiv.github.io/tags/wheat-yield/</loc>
     <lastmod>2024-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://KimKaiv.github.io/publication_types/3/</loc>
-    <lastmod>2023-04-01T00:01:09+01:00</lastmod>
   </url><url>
     <loc>https://KimKaiv.github.io/tags/apt-advanced-persistent-threat/</loc>
     <lastmod>2023-04-01T00:01:09+01:00</lastmod>
@@ -228,9 +249,6 @@
     <lastmod>2019-04-01T00:01:38+01:00</lastmod>
   </url><url>
     <loc>https://KimKaiv.github.io/tags/non-epistemic-values/</loc>
-    <lastmod>2019-04-01T00:01:38+01:00</lastmod>
-  </url><url>
-    <loc>https://KimKaiv.github.io/categories/signal-detection-theory/</loc>
     <lastmod>2019-04-01T00:01:38+01:00</lastmod>
   </url><url>
     <loc>https://KimKaiv.github.io/categories/statistical-decision-functions/</loc>
