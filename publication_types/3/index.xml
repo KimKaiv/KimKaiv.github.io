@@ -5,12 +5,20 @@
     <link>https://KimKaiv.github.io/publication_types/3/</link>
       <atom:link href="https://KimKaiv.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:01:09 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Mar 2025 00:01:00 +0100</lastBuildDate>
     <image>
       <url>https://KimKaiv.github.io/img/icon-192.png</url>
       <title>3</title>
       <link>https://KimKaiv.github.io/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>The Precautionary Principle and the Innovation Principle: Incompatible Guides for AI Innovation Governance?</title>
+      <link>https://KimKaiv.github.io/publication/pp-ip-ai-governance/</link>
+      <pubDate>Fri, 28 Mar 2025 00:01:00 +0100</pubDate>
+      <guid>https://KimKaiv.github.io/publication/pp-ip-ai-governance/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Many phish in the C: A coexisting-choice-criteria model of security behavior</title>
