@@ -5,12 +5,20 @@
     <link>https://KimKaiv.github.io/publication/</link>
       <atom:link href="https://KimKaiv.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Mar 2025 00:01:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://KimKaiv.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://KimKaiv.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Tracking evolving views of the 2024 Atlantic hurricane season with an expert prediction market</title>
+      <link>https://KimKaiv.github.io/publication/weather/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://KimKaiv.github.io/publication/weather/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Precautionary Principle and the Innovation Principle: Incompatible Guides for AI Innovation Governance?</title>
